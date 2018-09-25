@@ -84,10 +84,10 @@
 
    -  查看VirtualBox版本
 
-     ![1537672059198](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672059198.png)
+   ![1537672059198](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672059198.png)
 
-     ![1537672133448](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672133448.png)
-
+   ![1537672133448](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672133448.png)
+     
    - 在官网下载对应的版本
 
      ![1537672315743](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672315743.png)
