@@ -4,11 +4,11 @@
 
 - 情况一 : 虚拟机安装不上
 
-  ![](VirtureBox/img/1537667506817.png)
+  ![](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537667506817.png)
 
 - 情况二 : Linux系统安装不上
 
-  ![](img\1537667734800.png)
+  ![](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537667734800.png)
 
   ------
 
@@ -28,7 +28,7 @@
 >
 > ​    官方最新版本 : 5.2
 
-![1537666510740](img\1537666510740.png)
+![1537666510740](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537666510740.png)
 
 
 
@@ -36,27 +36,27 @@
 
 ### 一.打开安装软件,点击下一步
 
-![](img\1537669222889.png)
+![](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669222889.png)
 
 ### 二.更换安装路径
 
-![1537669410172](img\1537669410172.png)
+![1537669410172](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669410172.png)
 
-![1537669476504](img\1537669476504.png)
+![1537669476504](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669476504.png)
 
 ### 三.选择对应选项,进行下一步
 
-![1537669567085](img\1537669567085.png)
+![1537669567085](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669567085.png)
 
 ### 四.点击`是`,开始安装
 
-![1537669633187](img\1537669633187.png)
+![1537669633187](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669633187.png)
 
 ### 五.点击`安装`,进行软件的安装
 
-![1537669691231](img\1537669691231.png)
+![1537669691231](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669691231.png)
 
-![1537669747405](img\1537669747405.png)
+![1537669747405](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669747405.png)
 
 > ​	安装时会有提示安装Oracle的总线程控制器,点击  `安装`
 
