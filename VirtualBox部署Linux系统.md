@@ -62,19 +62,19 @@
 
 ### 六.安装完毕,点击`完成`进行安装向导
 
-![1537669949731](https://github.com/FlippyGO/VirtureBox/blob/master/img1537669949731.png)
+![1537669949731](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537669949731.png)
 
 ### 七.在打开的软件界面中,进行全局设置
 
-![1537670237795](https://github.com/FlippyGO/VirtureBox/blob/master/img1537670237795.png)
+![1537670237795](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537670237795.png)
 
 ### 八.在全局设置中的常规中,更改安装虚拟机安装的路径
 
-![1537670492726](https://github.com/FlippyGO/VirtureBox/blob/master/img1537670492726.png)
+![1537670492726](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537670492726.png)
 
 ### 九.在热键中,更改虚拟机切除热键(跟据个人习惯自由设定)
 
-![1537670772614](https://github.com/FlippyGO/VirtureBox/blob/master/img1537670772614.png)
+![1537670772614](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537670772614.png)
 
 ### 十.在扩展中安装VirtualBox扩展包vbox-extpack
 
@@ -82,27 +82,27 @@
 
    -  查看VirtualBox版本
 
-     ![1537672059198](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672059198.png)
+     ![1537672059198](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672059198.png)
 
-     ![1537672133448](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672133448.png)
+     ![1537672133448](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672133448.png)
 
    - 在官网下载对应的版本
 
-     ![1537672315743](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672315743.png)
+     ![1537672315743](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672315743.png)
 
      > ​	安装地址 : [https://www.virtualbox.org/wiki/Downloads]()
 
    - 在扩展中进行安装
 
-     ![1537672447518](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672447518.png)
+     ![1537672447518](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672447518.png)
 
-     ![1537672535428](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672535428.png)
+     ![1537672535428](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672535428.png)
 
-     ![1537672577278](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672577278.png)
+     ![1537672577278](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672577278.png)
 
-     ![1537672691704](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672691704.png)
+     ![1537672691704](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672691704.png)
 
-     ![1537672752202](https://github.com/FlippyGO/VirtureBox/blob/master/img1537672752202.png)
+     ![1537672752202](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537672752202.png)
 
    > 为什么要安装此扩展包呢?
    >
@@ -118,7 +118,7 @@
 
 > ​	百度经验 : [https://jingyan.baidu.com/article/335530daa55d7e19cb41c3c2.html]()
 
-![1537677867170](https://github.com/FlippyGO/VirtureBox/blob/master/img1537677867170.png)
+![1537677867170](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537677867170.png)
 
 
 
@@ -128,13 +128,13 @@
 
 ### 二.选择Centos系统版本
 
-![1537679017860](https://github.com/FlippyGO/VirtureBox/blob/master/img1537679017860.png)
+![1537679017860](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537679017860.png)
 
 > ​	在VirtualBox中没有对应的Centos,但在Red Hat中可以直接使用Centos版本的Linux,所以在版本中选择Red Hat-64bit(我们安装的Centos是64位的)
 
 ### 三.分配系统内存
 
-![1537679860527](https://github.com/FlippyGO/VirtureBox/blob/master/img1537679860527.png)
+![1537679860527](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537679860527.png)
 
 > 至少分配1GB内存（或者2G内存），支持图形界面显示
 > 对于Centos的安装大致可以安装两种模式:
@@ -147,51 +147,51 @@
 
 ### 四.创建虚拟硬盘
 
-![1537680500517](https://github.com/FlippyGO/VirtureBox/blob/master/img1537680500517.png)
+![1537680500517](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537680500517.png)
 
-![1537680660517](https://github.com/FlippyGO/VirtureBox/blob/master/img1537680660517.png)
+![1537680660517](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537680660517.png)
 
-![1537680711259](https://github.com/FlippyGO/VirtureBox/blob/master/img1537680711259.png)
+![1537680711259](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537680711259.png)
 
-![1537680793503](https://github.com/FlippyGO/VirtureBox/blob/master/img1537680793503.png)
+![1537680793503](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537680793503.png)
 
 > ​	虚拟硬盘可以分配大一些 ，之前的设置中可以动态调整硬盘的内容。
 
-![1537681016845](https://github.com/FlippyGO/VirtureBox/blob/master/img1537681016845.png)
+![1537681016845](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537681016845.png)
 
 ### 五.Linux安装前的设置
 
 - ​	设置系统属性
 
-![1537681161634](https://github.com/FlippyGO/VirtureBox/blob/master/img1537681161634.png)
+![1537681161634](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537681161634.png)
 
 - ​	设置处理器个数
 
-![1537681334669](https://github.com/FlippyGO/VirtureBox/blob/master/img1537681278277.png)
+![1537681334669](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537681278277.png)
 
 > ​	在系统的处理中,可以针对自己的电脑选择处理器的个数,这里分配1个处理器
 
 - ​	设置内存
 
-  ![1537681611010](https://github.com/FlippyGO/VirtureBox/blob/master/img1537681611010.png)
+  ![1537681611010](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537681611010.png)
 
 	 ​	由于此次将安装Centos桌面版,显存可以设置32MB以上,这里设置为32MB
 
 	 ​	设置安装镜像位置
 
-![1537681952369](https://github.com/FlippyGO/VirtureBox/blob/master/img1537681952369.png)
+![1537681952369](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537681952369.png)
 
-![1537682287958](https://github.com/FlippyGO/VirtureBox/blob/master/img1537682287958.png)
+![1537682287958](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537682287958.png)
 
 - ​	设置网络(重点)
 
-![1537682491509](https://github.com/FlippyGO/VirtureBox/blob/master/img1537682491509.png)
+![1537682491509](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537682491509.png)
 
 > ​	上图的这是的作用可以让虚拟机可以连接上互联网(要保证主机能够上网)
 
 
 
-![1537842638431](https://github.com/FlippyGO/VirtureBox/blob/master/img1537842638431.png)
+![1537842638431](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537842638431.png)
 
 > ​	上图的配置可以使主机和虚拟机相互通信
 
@@ -214,69 +214,69 @@
 - ​	启动Centos的安装,并切换到缩放模式
 
 
-![1537683190386](https://github.com/FlippyGO/VirtureBox/blob/master/img1537683190386.png)
+![1537683190386](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537683190386.png)
 
-![1537683466039](https://github.com/FlippyGO/VirtureBox/blob/master/img1537683466039.png)
+![1537683466039](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537683466039.png)
 
-​                                	![1537683722941](https://github.com/FlippyGO/VirtureBox/blob/master/img153768351601.png)
+​                                	![1537683722941](https://github.com/FlippyGO/VirtureBox/blob/master/img/153768351601.png)
 
 - ​	进入的Centos的安装步骤
 
-![1537683388391](https://github.com/FlippyGO/VirtureBox/blob/master/img1537683388391.png)
+![1537683388391](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537683388391.png)
 
 - ​	选择Skip，跳过media测试 
 
-![1537684335763](https://github.com/FlippyGO/VirtureBox/blob/master/img1537684335763.png)
+![1537684335763](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537684335763.png)
 
 - ​	开始Centos的安装
 
-![1537684406772](https://github.com/FlippyGO/VirtureBox/blob/master/img1537684406772.png)
+![1537684406772](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537684406772.png)
 
 - ​	语种的选择(生成环境尽量采用英文版,避免软件对中文的不兼容)
 
-![1537684479890](https://github.com/FlippyGO/VirtureBox/blob/master/img1537684479890.png)
+![1537684479890](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537684479890.png)
 
 - ​	键盘选择默认的就可以了(美式键盘)
 
-![1537684610562](https://github.com/FlippyGO/VirtureBox/blob/master/img1537684610562.png)
+![1537684610562](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537684610562.png)
 
 - ​	选择基本存储设备(选择默认)
 
-  ![1537684776626](https://github.com/FlippyGO/VirtureBox/blob/master/img1537684776626.png)
+  ![1537684776626](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537684776626.png)
 
 - ​    格式化数据的提示,这里选择 `Yes,dicard any data`
 
-![1537684855707](https://github.com/FlippyGO/VirtureBox/blob/master/img1537684855707.png)
+![1537684855707](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537684855707.png)
 
 - ​	修改主机域名,这里可以根据自己的喜好进行修改,但不要有中文和特殊字符
 
-![1537685174094](https://github.com/FlippyGO/VirtureBox/blob/master/img1537685174094.png)
+![1537685174094](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537685174094.png)
 
 - ​	设置网络
 
-![1537686550817](https://github.com/FlippyGO/VirtureBox/blob/master/img1537685174093.png)
+![1537686550817](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537685174093.png)
 
 - ​	对网络进行设置为开机启动
 
-![1537686689609](https://github.com/FlippyGO/VirtureBox/blob/master/img1537686689609.png)
+![1537686689609](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537686689609.png)
 
-![1537686887422](https://github.com/FlippyGO/VirtureBox/blob/master/img1537686887422.png)
+![1537686887422](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537686887422.png)
 
 - ​	选择时区为上海
 
-![1537687013834](https://github.com/FlippyGO/VirtureBox/blob/master/img1537687013834.png)
+![1537687013834](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537687013834.png)
 
 - ​	设置超级账号Root的密码
 
-![1537687164488](https://github.com/FlippyGO/VirtureBox/blob/master/img1537687164488.png)
+![1537687164488](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537687164488.png)
 
 > ​	如果密码过于简单,会有提示.但是如果不是正式环境就直接点击 `Use Anyway`
 >
-> ![1537687323651](https://github.com/FlippyGO/VirtureBox/blob/master/img1537687323651.png)
+> ![1537687323651](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537687323651.png)
 
 - ​	给系统进行分盘
 
-![1537687787218](https://github.com/FlippyGO/VirtureBox/blob/master/img1537687787218.png)
+![1537687787218](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537687787218.png)
 
 > 图上的的各个选项解释 : 
 >
@@ -302,75 +302,75 @@
   |   swap   | 虚拟内存,建议是物理内存的1~2倍                             |
   |  /home   | 存放用户数据,是普通用户的宿主目录,建议将剩下的空间全部分配 |
 
-  ![](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689460383.png)
+  ![](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689460383.png)
 
 - 给Boot进行分区
 
-![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689537733.png)
+![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689537733.png)
 
-![1537690206873](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689962495.png)
+![1537690206873](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689962495.png)
 
 - ​	给 / 分配空间
 
-![1537690120712](https://github.com/FlippyGO/VirtureBox/blob/master/img1537690120712.png)
+![1537690120712](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537690120712.png)
 
-![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689537733.png)
+![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689537733.png)
 
-![1537690585319](https://github.com/FlippyGO/VirtureBox/blob/master/img1537690423065.png)
+![1537690585319](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537690423065.png)
 
 - ​	给swap分配空间
 
-![1537690559965](https://github.com/FlippyGO/VirtureBox/blob/master/img1537690559965.png)
+![1537690559965](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537690559965.png)
 
-![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689537733.png)
+![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689537733.png)
 
-![1537690735631](https://github.com/FlippyGO/VirtureBox/blob/master/img1537690735631.png)
+![1537690735631](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537690735631.png)
 
 - ​	给/usr分配空间
 
-![1537690960410](https://github.com/FlippyGO/VirtureBox/blob/master/img1537690960410.png)
+![1537690960410](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537690960410.png)
 
-![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689537733.png)
+![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689537733.png)
 
-![1537691051280](https://github.com/FlippyGO/VirtureBox/blob/master/img1537691051280.png)
+![1537691051280](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537691051280.png)
 
 - ​	给/var分配空间
 
-![1537691135065](https://github.com/FlippyGO/VirtureBox/blob/master/img1537691135065.png)
+![1537691135065](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537691135065.png)
 
-![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689537733.png)
+![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689537733.png)
 
-![1537691240372](https://github.com/FlippyGO/VirtureBox/blob/master/img1537691240372.png)
+![1537691240372](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537691240372.png)
 
 - ​	给/home分配空间
 
-![1537691314891](https://github.com/FlippyGO/VirtureBox/blob/master/img1537691314891.png)
+![1537691314891](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537691314891.png)
 
-![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img1537689537733.png)
+![1537690186234](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537689537733.png)
 
-![1537691431985](https://github.com/FlippyGO/VirtureBox/blob/master/img1537691431985.png)
+![1537691431985](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537691431985.png)
 
 - ​	分区后的结果
 
-![1537691485426](https://github.com/FlippyGO/VirtureBox/blob/master/img1537691485426.png)
+![1537691485426](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537691485426.png)
 
 - ​	重新启动系统
 
-![1537692219259](https://github.com/FlippyGO/VirtureBox/blob/master/img1537692219259.png)
+![1537692219259](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537692219259.png)
 
 - ​	分区后,需要进行分区的格式化
 
-![1537692286196](https://github.com/FlippyGO/VirtureBox/blob/master/img1537692286196.png)
+![1537692286196](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537692286196.png)
 
-![1537692371682](https://github.com/FlippyGO/VirtureBox/blob/master/img1537692371682.png)
+![1537692371682](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537692371682.png)
 
 - ​	格式化完毕,下一步
 
-![1537692442923](https://github.com/FlippyGO/VirtureBox/blob/master/img1537692442923.png)
+![1537692442923](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537692442923.png)
 
 - ​	此次我们安装迷你桌面版(这个版要比桌面版预装的软件少)
 
-![1537692585542](https://github.com/FlippyGO/VirtureBox/blob/master/img1537692585542.png)
+![1537692585542](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537692585542.png)
 
 > ​	各个类型的解释:
 >
@@ -390,7 +390,7 @@
 
 - ​	系统安装完毕,重新启动
 
-![1537693237295](https://github.com/FlippyGO/VirtureBox/blob/master/img1537693237295.png)
+![1537693237295](https://github.com/FlippyGO/VirtureBox/blob/master/img/1537693237295.png)
 
 
 
