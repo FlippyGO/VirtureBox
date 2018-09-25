@@ -1,5 +1,3 @@
-[TOC]
-
 # VirtualBox部署Linux系统
 
 ​	在JavaEE的课程中,需要学员对Linux系统的有初步的认识.课程要求学员在虚拟机上进行安装Linux系统,虚拟机大多是Vmware.Vmware虚拟机功能上强大,使用过的人都是认可的,但是...有点时候Vmware也会出现异常情况.
